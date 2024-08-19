@@ -6,6 +6,10 @@
 [Игра человек - человек](https://veretennikovalexey.github.io/5000-allow-legal-moves.html)
 
 
+[Испанка](https://veretennikovalexey.github.io/1002-fen-string.html)
+
+
+
 # [alex](https://veretennikovalexey.github.io/veretennikovalexey)
 
 
