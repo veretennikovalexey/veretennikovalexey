@@ -4,6 +4,9 @@
 
 # [alex](https://veretennikovalexey.github.io/veretennikovalexey)
 
+
+## Документация [chessboard](https://chessboardjs.com/v2/examples/1001-start-position)
+
 <!--
 **veretennikovalexey/veretennikovalexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
