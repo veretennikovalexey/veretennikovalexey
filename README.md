@@ -2,6 +2,10 @@
 
 [veretennikovalexey.github.io](https://veretennikovalexey.github.io/)
 
+
+[Игра человек - человек](https://veretennikovalexey.github.io/5000-allow-legal-moves.html)
+
+
 # [alex](https://veretennikovalexey.github.io/veretennikovalexey)
 
 
