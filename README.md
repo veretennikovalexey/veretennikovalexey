@@ -10,6 +10,7 @@
 
 [Испанка за чёрных 3. ... a6](https://veretennikovalexey.github.io/5000-allow-legal-ispanka.html)
 
+[Защита Филидора за белых 3. d4](https://veretennikovalexey.github.io/5000-allow-philidor-defence.html)
 
 # [alex](https://veretennikovalexey.github.io/veretennikovalexey)
 
