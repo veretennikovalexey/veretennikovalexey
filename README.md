@@ -1,8 +1,8 @@
-#Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
+# Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
 [veretennikovalexey.github.io](https://veretennikovalexey.github.io/)
 
-#[alex](https://veretennikovalexey.github.io/veretennikovalexey)
+# [alex](https://veretennikovalexey.github.io/veretennikovalexey)
 
 <!--
 **veretennikovalexey/veretennikovalexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
