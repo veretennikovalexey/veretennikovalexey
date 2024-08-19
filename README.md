@@ -1,6 +1,6 @@
 #Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
-https://veretennikovalexey.github.io/
+[veretennikovalexey.github.io](https://veretennikovalexey.github.io/) "доска" 
 
 ## Hi there 👋
 
