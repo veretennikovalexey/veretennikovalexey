@@ -8,7 +8,7 @@
 
 [Испанка](https://veretennikovalexey.github.io/1002-fen-string.html)
 
-[Испанка за чёрных 3. .. a6](https://veretennikovalexey.github.io/5000-allow-legal-ispanka.html)
+[Испанка за чёрных 3. ... a6](https://veretennikovalexey.github.io/5000-allow-legal-ispanka.html)
 
 
 # [alex](https://veretennikovalexey.github.io/veretennikovalexey)
