@@ -21,9 +21,6 @@
 
 [Игра человек - человек](https://veretennikovalexey.github.io/5000-allow-legal-moves.html)
 
-
-[Испанка](https://veretennikovalexey.github.io/1002-fen-string.html)
-
 [Испанка за чёрных 3. ... a6](https://veretennikovalexey.github.io/5000-allow-legal-ispanka.html)
 
 [Защита Филидора за белых 3. d4](https://veretennikovalexey.github.io/5000-allow-philidor-defence.html)
