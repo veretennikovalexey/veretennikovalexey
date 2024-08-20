@@ -4,10 +4,12 @@
 
 Защита Филидора 3. d4 `rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3`
 
+Испанка 3. ... a6     `r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b - - 0 3`
+
+
 Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
 [veretennikovalexey.github.io](https://veretennikovalexey.github.io/)
-
 
 [Игра человек - человек](https://veretennikovalexey.github.io/5000-allow-legal-moves.html)
 
