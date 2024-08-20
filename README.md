@@ -1,13 +1,12 @@
 ### Анализ позиции
 
-[Вставь FEN](https://veretennikovalexey.github.io/5000-allow-fen-string.html)
-
 Защита Филидора [3. d4](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R%20w%20KQkq%20-%200%203)
 
 Испанка [3. ... a6](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R%20b%20-%20-%200%203)
 
 Итальянка [4. c3](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R%20w%20KQkq%20-%204%204)
 
+Или [вставь любой FEN](https://veretennikovalexey.github.io/5000-allow-fen-string.html)
 
 ### Статичные позиции
 
