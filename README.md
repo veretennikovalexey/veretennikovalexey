@@ -1,4 +1,10 @@
-# Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
+### Анализ позиции
+
+[Вставь FEN](https://veretennikovalexey.github.io/5000-allow-fen-string.html)
+
+`rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3`
+
+Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
 [veretennikovalexey.github.io](https://veretennikovalexey.github.io/)
 
@@ -12,7 +18,7 @@
 
 [Защита Филидора за белых 3. d4](https://veretennikovalexey.github.io/5000-allow-philidor-defence.html)
 
-# [alex](https://veretennikovalexey.github.io/veretennikovalexey)
+## [alex](https://veretennikovalexey.github.io/veretennikovalexey)
 
 
 ## Документация [chessboard](https://chessboardjs.com/v2/examples/1001-start-position)
