@@ -2,7 +2,7 @@
 
 [Вставь FEN](https://veretennikovalexey.github.io/5000-allow-fen-string.html)
 
-`rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3`
+Защита Филидора 3. d4 `rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3`
 
 Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
