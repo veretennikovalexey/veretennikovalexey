@@ -2,7 +2,7 @@
 
 [Вставь FEN](https://veretennikovalexey.github.io/5000-allow-fen-string.html)
 
-Защита Филидора 3. d4 `rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3`
+Защита Филидора [3. d4](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R%20w%20KQkq%20-%200%203)
 
 Испанка [3. ... a6](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R%20b%20-%20-%200%203)
 
