@@ -6,6 +6,8 @@
 
 Испанка 3. ... a6     `r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b - - 0 3`
 
+Итальянка 4. c3 `r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4`
+
 
 Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
