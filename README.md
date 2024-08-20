@@ -8,6 +8,12 @@
 
 Итальянка 4. c3 `r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4`
 
+### Статичные позиции
+
+[Испанка](https://veretennikovalexey.github.io/1002-fen-string.html?fen=r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R)
+
+[Защита Филидора](https://veretennikovalexey.github.io/1002-fen-string.html?fen=rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R)
+
 
 Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
 
