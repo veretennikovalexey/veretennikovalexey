@@ -1,5 +1,7 @@
 ### Анализ позиции
 
+[Защита Петрова](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R%20w%20KQkq%20-%202%203)
+
 A45 [Indian Defense](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR%20w%20KQkq%20-%201%202)
 
 Scotch Game [_](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R%20b%20KQkq%20-%200%204)
