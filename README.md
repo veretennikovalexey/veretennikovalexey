@@ -1,3 +1,7 @@
+### Мат в 2 хода
+
+[270](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=3nrr2/6p1/2p1pp1p/1kp5/1P1P4/1K3N1P/6P1/R7%20w%20-%20-%200%201)
+
 ### Анализ позиции
 
 А00 [Дебют Мизеса](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkbnr/ppp1pppp/8/3p4/8/3P4/PPP1PPPP/RNBQKBNR%20w%20KQkq%20-%200%202)
