@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chessboard Move Example</title>
+    <link rel="stylesheet" href="https://unpkg.com/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+    <script src="https://unpkg.com/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+    <style>
+        #board {
+            width: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div id="board"></div>
+    <a href="#" id="moveLink">Move e2 to e4</a>
+
+    <script>
+        // Инициализация шахматной доски
+        var board = Chessboard('board', {
+            position: 'start'
+        });
+
+        // Обработчик нажатия на ссылку
+        document.getElementById('moveLink').addEventListener('click', function(event) {
+            event.preventDefault(); // предотвращаем переход по ссылке
+            board.move('e2-e4');
+        });
+    </script>
+</body>
+</html>

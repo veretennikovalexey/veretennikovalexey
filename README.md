@@ -4,6 +4,8 @@
 
 ### Анализ позиции
 
+А00 [Дебют Мизеса](https://veretennikovalexey.github.io/movesplus.html?moves=d2,d3,d7,d5)
+
 А00 [Дебют Мизеса](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkbnr/ppp1pppp/8/3p4/8/3P4/PPP1PPPP/RNBQKBNR%20w%20KQkq%20-%200%202)
 
 [Защита Петрова](https://veretennikovalexey.github.io/5000-allow-fen-string.html?fen=rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R%20w%20KQkq%20-%202%203)
