@@ -5,7 +5,9 @@
 ### Анализ позиции
 
 А00 [Дебют Мизеса](https://veretennikovalexey.github.io/movesplus.html?moves=d3,d5)
+B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6)
+
 
 Или [вставь любой FEN](https://veretennikovalexey.github.io/5000-allow-fen-string.html)
 
