@@ -11,7 +11,7 @@ B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6)
 
 C50 [Italian Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bc4)
-C54 [Italian Game: Giuoco Piano, Greco's Attack](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bc4,c3,Nf6,d4,exd4)
+C54 [Italian Game: Giuoco Piano, Greco's Attack](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bc4,Bc5,c3,Nf6,d4,exd4,cxd4,Bb4,Nc3,Nxe4)
 
 C70 [Ruy Lopez: Morphy Defence](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bb5,a6,Ba4,Nf6)
 
