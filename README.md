@@ -6,6 +6,8 @@
 ### Анализ позиции
 
 А00 [Дебют Мизеса](https://veretennikovalexey.github.io/movesplus.html?moves=d3,d5)
+А00 [Grob Opening](https://veretennikovalexey.github.io/movesplus.html?moves=g4,d5)
+
 A45 [Indian Defence](https://veretennikovalexey.github.io/movesplus.html?moves=d4,Nf6)
 B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6)
