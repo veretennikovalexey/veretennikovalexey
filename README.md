@@ -9,6 +9,8 @@
 А00 [Grob Opening](https://veretennikovalexey.github.io/movesplus.html?moves=g4,d5)
 
 A45 [Indian Defence](https://veretennikovalexey.github.io/movesplus.html?moves=d4,Nf6)
+
+B00 [Owen Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,b6)
 B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6)
 
 C00 [French Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,d5)
