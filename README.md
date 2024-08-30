@@ -40,6 +40,8 @@ C70 [Ruy Lopez: Morphy Defence](https://veretennikovalexey.github.io/movesplus.h
 
 ## Документация [chessboard](https://chessboardjs.com/v2/examples/1001-start-position)
 
+
+#### 💬 success consists of going from failure to failure 
 <!--
 **veretennikovalexey/veretennikovalexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
