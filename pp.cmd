@@ -1,3 +1,6 @@
+#!/bin/bash
+set -x 
+
 git pull
 
 git config --global user.name veretennikovalexey
