@@ -14,8 +14,11 @@ B00 [Owen Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,
 B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6)
 
 C00 [French Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,d5)
+
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6)
 C45 [Scotch Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4)
+
+C47 [Four Knights](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Nc3,Nf6)
 
 ## Итальянка
 
