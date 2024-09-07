@@ -5,6 +5,7 @@
 
 ### Анализ позиции
 
+A00 [Van't Kruijs Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e3)
 А00 [Дебют Мизеса](https://veretennikovalexey.github.io/movesplus.html?moves=d3,d5)
 А00 [Grob Opening](https://veretennikovalexey.github.io/movesplus.html?moves=g4,d5)
 
