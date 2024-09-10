@@ -17,7 +17,7 @@ B00 [Nimzowitsch Defense](https://veretennikovalexey.github.io/movesplus.html?mo
 B00 [Owen Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,b6)
 B00 [Pirc Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,d6)
 
-B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6)
+B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6,d4,d5)
 
 C00 [French Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,d5)
 C23 [Bishop's Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Bc4)
