@@ -28,7 +28,9 @@ C23 [Bishop's Opening](https://veretennikovalexey.github.io/movesplus.html?moves
 
 C41 [Philidor Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,d6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6,Nxe5)
+
 C45 [Scotch Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4)
+C45 [Scotch Game Слон C5](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4,Bc5)
 
 C47 [Four Knights](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Nc3,Nf6)
 
