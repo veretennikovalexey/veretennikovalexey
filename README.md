@@ -25,6 +25,7 @@ B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6,
 
 C00 [French Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,d5)
 C23 [Bishop's Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Bc4)
+C25 [Vienna Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nc3)
 
 C41 [Philidor Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,d6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6,Nxe5)
