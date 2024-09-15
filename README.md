@@ -34,6 +34,7 @@ C44 [Ponziani Opening](https://veretennikovalexey.github.io/movesplus.html?moves
 
 C45 [Scotch Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4)
 C45 [Scotch Game Слон C5](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4,Bc5)
+C45 [Scotch Game: Classical Variation, Intermezzo Variation](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4,Bc5,Nxc6,Qf6)
 
 C47 [Four Knights](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Nc3,Nf6)
 
