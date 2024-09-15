@@ -30,6 +30,8 @@ C25 [Vienna Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e
 C41 [Philidor Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,d6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6,Nxe5)
 
+C44 [Ponziani Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,c3)
+
 C45 [Scotch Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4)
 C45 [Scotch Game Слон C5](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,d4,exd4,Nxd4,Bc5)
 
