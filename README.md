@@ -19,7 +19,8 @@ A45 [Indian Defence](https://veretennikovalexey.github.io/movesplus.html?moves=d
 
 B00 [Nimzowitsch Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,Nc6)
 B00 [Owen Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,b6)
-B00 [Pirc Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,d6)
+
+B00 [Pirc Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,d6,d4,Nf6)
 
 B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6,d4,d5)
 
