@@ -25,6 +25,8 @@ B00 [Pirc Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,
 B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6,d4,d5)
 
 C00 [French Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,d5)
+C00 [French Defense: Franco-Sicilian Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,c5)
+
 C20 [King's Pawn Game: Wayward Queen Attack](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Qh5)
 
 C23 [Bishop's Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Bc4)
