@@ -2,6 +2,8 @@
 
 [chessdb.cn](https://chessdb.cn/queryc_en/)
 
+[stockfish-chess-web-gui](https://veretennikovalexey.github.io/stockfish-chess-web-gui/implementation-2/)
+
 ### Анализ позиции
 
 A00 [Van't Kruijs Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e3)
