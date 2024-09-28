@@ -45,6 +45,7 @@ C47 [Four Knights](https://veretennikovalexey.github.io/movesplus.html?moves=e4,
 ## Итальянка
 
 C50 [Italian Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bc4)
+C50 [C50 Italian Game: Anti-Fried Liver Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bc4,h6,d4)
 
 C54 [Mainline 6.e5](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nc6,Bc4,Bc5,c3,Nf6,d4,exd4,e5)
 
