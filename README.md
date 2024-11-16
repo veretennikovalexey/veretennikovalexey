@@ -35,7 +35,9 @@ C20 [King's Pawn Game: Wayward Queen Attack](https://veretennikovalexey.github.i
 C23 [Bishop's Opening](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Bc4)
 C25 [Vienna Game](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nc3)
 
-C40 [C40 King's Pawn Game: McConnell Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Qf6)
+C30 [King's Gambit](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,f4)
+
+C40 [King's Pawn Game: McConnell Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Qf6)
 
 C41 [Philidor Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,d6)
 C42 [Русская партия](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e5,Nf3,Nf6,Nxe5)
@@ -71,7 +73,7 @@ C70 [Ruy Lopez: Morphy Defence](https://veretennikovalexey.github.io/movesplus.h
 [Защита Филидора](https://veretennikovalexey.github.io/1002-fen-string.html?fen=rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R)
 
 
-Простая шахматная доска с возможностью перемещения фигур ( без правил ) 
+Простая шахматная доска с возможностью перемещения фигур ( без правил )
 
 [veretennikovalexey.github.io](https://veretennikovalexey.github.io/)
 
@@ -83,7 +85,7 @@ C70 [Ruy Lopez: Morphy Defence](https://veretennikovalexey.github.io/movesplus.h
 ## Документация [chessboard](https://chessboardjs.com/v2/examples/1001-start-position)
 
 
-#### 💬 success consists of going from failure to failure 
+#### 💬 success consists of going from failure to failure
 <!--
 **veretennikovalexey/veretennikovalexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
