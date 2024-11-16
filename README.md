@@ -25,6 +25,8 @@ B00 [Pirc Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,
 
 B02 [Alekhine Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,Nf6)
 
+B06 [Modern Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,g6)
+
 B10 [Caro-Kann](https://veretennikovalexey.github.io/movesplus.html?moves=e4,c6,d4,d5)
 
 C00 [French Defense](https://veretennikovalexey.github.io/movesplus.html?moves=e4,e6,d4,d5)
